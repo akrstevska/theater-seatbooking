@@ -50,7 +50,6 @@ Clone the repository:
 
 ### Set up the frontend:
 1. Open the frontend files (`index.html`, `style.css`, etc.) in your preferred web server environment.
-2. Deploy the application to **Azure** for hosting.
 
 ## How to Use
 
