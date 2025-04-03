@@ -4,10 +4,10 @@ namespace Database;
 
 class Connection
 {
-    const HOST = 'theatermysql.mysql.database.azure.com';
+    const HOST = 'localhostt';
     const DB_NAME = 'theatreDB';
-    const USERNAME = 'theateruser';
-    const PASSWORD = 'Admin123!';
+    const USERNAME = 'root';
+    const PASSWORD = '';
 
     protected $connection;
 
